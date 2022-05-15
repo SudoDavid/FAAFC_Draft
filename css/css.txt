@@ -1,0 +1,14 @@
+.bg{
+  background-image: url(../image/banner.jpg);
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ color: #eeeeee;
+
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
